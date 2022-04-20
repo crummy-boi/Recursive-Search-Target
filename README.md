@@ -1,4 +1,4 @@
-# Recursive Binary Search
+# Recursive Search Target
 
 Created by: Nuranissa Abdul Wahid (crummy-boi)  
 Date: November 2020    
