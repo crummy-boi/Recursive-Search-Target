@@ -9,4 +9,6 @@ Part two tracks, compares, and finds a word target in a file called "longwords.t
 
 Note: Since I used a MacBook Pro, the directory path is based on Mac's pathway, not Windows or Linux
 
-This was an assignment for my CSS 143 class.
+This was an assignment for my CSS 143 class.  
+
+Please do not copy my code without my permission.
